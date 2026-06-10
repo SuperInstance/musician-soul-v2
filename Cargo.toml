@@ -1,4 +1,6 @@
 [package]
+description = "musician-soul-v2 - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/musician-soul-v2"
 name = "musician-soul-v2"
 version = "0.1.0"
 edition = "2024"
