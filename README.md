@@ -1,6 +1,6 @@
 # musician-soul-v2
 
-Next-generation vector DB persona system for musical AI — adds cross-persona influence graphs, genre emergence, temporal career phases, call-and-response chains, and soul divergence tracking.
+vector DB persona system for musical AI — adds cross-persona influence graphs, genre emergence, temporal career phases, call-and-response chains, and soul divergence tracking.
 
 ## Why This Exists
 
